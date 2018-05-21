@@ -53,3 +53,8 @@ fabric.properties
 
 # ignore csv files
 *.csv
+
+# ignore pycharm files
+*.idea
+
+__pycache__/
